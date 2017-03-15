@@ -130,3 +130,13 @@ section, .banner-topo {
 .box-4 {
     background-image: url('../images/bg-box4.jpg');
 }
+
+/*CONTATO*/
+#contatos{
+    font-size: 25px;
+    height: 600px;
+}
+
+#contatos, h2 p{
+    padding-left: 35px;
+}
