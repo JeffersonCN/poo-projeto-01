@@ -270,3 +270,7 @@ body a {
 .lead-noticia,.lead-prodserv {
     font-size: 18px;
 }
+
+.lead-prodserv{
+    text-align: justify;
+}
