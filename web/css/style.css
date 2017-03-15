@@ -15,7 +15,7 @@
 }
 
 .navbar-inverse .navbar-brand:hover {
-    color: #B9DEB3;
+    color: #C8E6C6;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -81,7 +81,7 @@ section, .banner-topo {
 
 .footer-infos {
     font-size: 20px;
-    background-color: #333;
+    background-color: #0A5706;
 }
 
 .footer-infos .title {
@@ -91,7 +91,7 @@ section, .banner-topo {
 
 .links a:hover {
     text-decoration: none;
-    color: #ddd;
+    color: #C8E6C6;
 }
 
 .endereco {
@@ -103,11 +103,11 @@ section, .banner-topo {
 }
 
 .social-link:hover {
-    color: #222;
+    color: #0A5706;
 }
 
 .footer-copyright {
-    background-color: #000;
+    background-color: #022400;
     font-size: 16px;
     padding-top: 10px;
 }
