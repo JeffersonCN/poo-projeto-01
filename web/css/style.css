@@ -17,8 +17,14 @@ section, .banner-topo {
 }
 
 .banner-topo {
-    padding-top: 350px;
-    height: 500px;
+    height: 600px;
+    position: relative;
+}
+
+.bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
 }
 
 .section-title, .section-subtitle {
@@ -29,6 +35,10 @@ section, .banner-topo {
 .section-subtitle {
     margin-top: 0;
     font-weight: 700;    
+}
+
+.header-title {
+    font-size: 64px;
 }
 
 .bg-cinza {
