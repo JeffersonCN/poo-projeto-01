@@ -167,6 +167,17 @@ section, .banner-topo {
     padding-left: 35px;
 }
 
+/*PRODUTOS E SERVIÇOS*/
+.bg-prod-serv{
+    background-image: url('../images/prodser-banner.jpg');
+}
+.bg-verde{
+    background-color: #0A5706;
+}
+.bg-cursos{
+   background-image: url('../images/bg-cursos.jpg'); 
+}
+
 .btn-servicos {
     margin-top: 20px;
 }
@@ -256,6 +267,10 @@ body a {
     font-size: 28px;
 }
 
-.lead-noticia {
+.lead-noticia,.lead-prodserv {
     font-size: 18px;
+}
+
+.lead-prodserv{
+    text-align: justify;
 }
