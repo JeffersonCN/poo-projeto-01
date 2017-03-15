@@ -274,3 +274,7 @@ body a {
 .lead-prodserv{
     text-align: justify;
 }
+
+.no-shadow {
+    text-shadow: none;
+}
