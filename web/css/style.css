@@ -247,3 +247,15 @@ body a {
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out
 }
+
+.bg-noticas {
+    background-image: url('../images/bg-noticias.jpg');
+}
+
+.titulo-noticia {
+    font-size: 28px;
+}
+
+.lead-noticia {
+    font-size: 18px;
+}
