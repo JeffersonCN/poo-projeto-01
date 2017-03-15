@@ -140,3 +140,17 @@ section, .banner-topo {
 #contatos, h2 p{
     padding-left: 35px;
 }
+
+.btn-servicos {
+    margin-top: 20px;
+}
+
+.bg-institucional {
+    background-image: url('../images/bg-institucional.jpg');
+}
+
+.texto-institucional {
+    margin: 40px 0;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6);
+}
